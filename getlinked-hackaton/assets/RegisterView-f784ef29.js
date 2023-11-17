@@ -1,0 +1,1 @@
+import{o as e,c as a,a as t,F as s,i as c,_ as n}from"./index-708b6559.js";const r=c("main",null,null,-1),m={__name:"RegisterView",setup(o){return(_,i)=>(e(),a(s,null,[t(n,{"active-section":"register"}),r],64))}};export{m as default};
